@@ -1,1 +1,2 @@
-# python_course_kyrgyz_moodle
+# Курсту Moodle'га орнотуп алуу
+[Видео туториал](https://youtu.be/3Lg9IG8MqY4)
